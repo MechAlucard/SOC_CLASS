@@ -1,3 +1,8 @@
+//Author: Tyler Martin
+//Filename: main.cc
+//Date: 11/13/2012
+//Description: this is the main program that tests the HAL driver that was written for 
+//		the 7 segment display.  
 #include "system.h"
 #include "io.h"
 #include "alt_types.h"
