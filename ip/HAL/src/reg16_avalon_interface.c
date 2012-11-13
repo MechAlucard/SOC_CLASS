@@ -1,3 +1,7 @@
+//Author: Tyler Martin
+//Filename:  reg16_avalon_interface.c
+//Date: 11/13/2012
+//Description: this provides the file open and writing functions for the 7seg display
 #include <errno.h>
 #include <priv/alt_file.h>
 #include "reg16_avalon_interface.h"
