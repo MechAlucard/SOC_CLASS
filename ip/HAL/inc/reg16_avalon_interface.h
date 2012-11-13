@@ -1,3 +1,7 @@
+//Author: Tyler Martin
+//Filename:  reg16_avalon_interface.h
+//Date: 11/13/2012
+//Description: this contains the file open and writing function prototypes for the 7seg display
 #ifndef __REG16_AVALON_INTERFACE_H__
 #define __REG16_AVALON_INTERFACE_H__
 #include <stddef.h>
